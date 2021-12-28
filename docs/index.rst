@@ -3,118 +3,47 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-5 Jenis WhatsApp Mod Apk dan Penjelasan Fiturnya
+Ganti Nada Pesan WA Jadi Unik dan Keren tanpa Aplikasi [Tutorial Android]
 ==================
 
-`WhatsApp mod apk <https://news.google.com/articles/CAIiEKSwpTE9hUaTpTSsiZ7c6zYqGQgEKhAIACoHCAowqNamCzCQ4b4DMPbKkAc?uo=CAUiOWh0dHBzOi8vd3d3LnBlbGl0YS5vci5pZC93YS1tb2QtcHJvLWRvd25sb2FkLWFway10ZXJiYXJ1L9IBAA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ sedang melakukan inovasi dengan menghadirkan berbagai versi. Masing-masing versi tentu saja memiliki keunggulan tersendiri dan juga pastinya punya kekurangannya juga. WhatsApp mod atau WhatsApp modifikasi menjadi salah satu aplikasi yang telah dibangun atau diciptakan oleh pihak lain yang legalitasnya ada diluar  pihak resmi WhatsApp. Walaupun begitu tidak perlu khawatir karena aplikasi ini masih bisa dioperasionalkan dengan normal untuk layanan pengiriman  pesan dengan sesama pengguna WhatsApp lainnya.
+Whatsapp menyediakan banyak fitur menarik belakangan ini, salah satunya adalah cara ubah nada pesan panggilan WA. Dengan mengubah nada pesan tersebut, Anda bisa menggunakan music favorit untuk menjadi ringtone ketika ada pesan masuk atau telepon di WA.  Cara ini sebenarnya mirip dengan tutorial sound of text wa ygn bisa kamu baca di artikel berikut ini: https://www.technolati.com/2021/12/sound-of-text-wa-suara-anime-dan-wanita.html
 
-WhatsApp mod apk menjadi bagian dari aplikasi perpesanan yang sangat populer dewasa ini.  Hal ini dikarenakan aplikasi ini memiliki fitur yang  berbeda dengan aplikasi lainnya. Fitur-fitur yang dimiliki memberikan nuansa kepuasan tersendiri bagi penggunanya. Diantaranya fitur untuk melindungi privasi, fitur untuk kemanan dan banyak fitur-fitur lainnya yang akan menjaga privasi bagi para penggunanya. Bagi anda yang ingin mengetahui lebih jauh silahkan klik link ini: https://www.sebuahutas.com/2021/11/download-wa-mod-apk-yang-aman-dan-anti.html
+Mengganti nada pesan di WA juga tidak sulit, Anda bisa melakukannya tanpa harus menggunakan aplikasi pihak ketiga. Ponsel yang Anda gunakan untuk menggantinya pun bisa apa saja, tanpa ada batasan brand atau jenis. 
 
-Setiap aplikasi selain memilliki kelebihan atau manfaat juga memiliki kemudaratan. Hal yang juga harus diketahui oleh para pengguna aplikasi wa mod yaitu resiko yang akan dialami oleh para pengguna aplikasi wa mod ini. WhatsApp mod apk merupakan aplikasi yang masih bersifat ilegal tentu saja apabila para penggunanya mengalami kerugian tidak dapat meminta pertanggung jawaban dari pihak WhatsApp mod apk.
+Menariknya, Anda bisa juga mengatur suara pesan masuk dari kontak atau grup tertentu. Sehingga Anda bisa tahu bahwa ada pesan masuk hanya dari ringtone khusus yang Anda gunakan. Jika tertarik menggunakannya, berikut adalah panduan dan cara mengubahnya. 
 
-
-Resiko Menggunakan WhatsApp Mod APK
+Cara Ubah nada pesan Panggilan di WA
 ==================
 
-Adapun resiko yang akan dialami oleh para pengguna whatsapp mod apk  diantaranya:
+Untuk mengubah nada dering, Anda bisa mengikuti langkah langkah berikut ini sebagai panduan, yakni:
 
-- Keamanan privasi terancam
+1. Buka aplikasi WA, lebih baik jika Anda menggunakan versi terbaru.
+2. Pada halaman muka aplikasi WA, pilih Setelan, posisinya ada di pojok kanan atas dengan simbol tiga titik. 
+3. Klik menu Pengaturan. 
+4. Selanjutnya pilih opsi menu Notifikasi, terdapat ikon bel dalam menu ini. 
+5. Anda bisa melihat tiga sub menu disana, yakni Nada Pesan, Nada Grub dan Nada Panggilan. 
+6. Pilih salah satu dari sub menu tersebut, jika ingin mengubah nada pesan, pilih menu Nada Pesan.
 
-WhatsApp mod apk  bisa mengirimkan dan menerima pesan lewat server whatsapp yang legal, dan ini mirip dengan hatsapp yang resmi. Namun, ini tidak menjadi jaminan jika pesan anda akan aman dan tidak tersentuh dengan spam. Hal ini akan membahayakan keamanan privasi bagi para pengguna whatsapp modifikasi.
+Cara ubah nada pesan panggilan di WA selanjutnya adalah memilih nada pesan yang tersedia. WA sudah menyediakan beberapa opsi nada pesan yang bisa Anda pilih. Jika tertarik, pilih salah satu nada pesan tersebut. 
 
-Sebagaimana yang dikatakan oleh pakar keamanan software mengklaim bahwa whatsApp plus berisi tautan ke situs web yang sangat mengkhawatirkan dan bahkan pernah ditemukan dapat melakukan komunikasi dengan server lain. Hal ini karena aplikasi modifikasi ini mampu menyalin data seperti nama, media serta pesan-pesan yang dikirimkan.
+Lihat juga: `Buat Nada Pesan Suara Google <https://www.sebuahutas.com/2021/09/nada-dering-wa-suara-google-tanpa.html>`_
 
-- Bisa memblokir akun anda
+Namun jika kurang puas dengan nada pesan yang tersedia, pilih More Ringtones. Menu tersebut ada di bagian bawah, gulirkan untuk melihatnya. Dengan memilih More Ringtones, Anda bisa memilih lagu atau ringtone yang ingin Anda gunakan. Pilih nada pesan tersebut, jika sudah tekan OK untuk menyimpan perubahan. 
 
-Hal ini sudah terbukti jika WhatsApp sudah melakukan pemblokiran penggunanya yang telah menggunakan WhatsApp modifikasi.  Selain itu pihak WhatsApp legal pun menghimbau kepada siapapun yang masih menggunakan layanan pihak ke tiga agar segera melakukan penghapusan aplikasinya di WhatsApp.
+Nada pesan sudah terganti, Anda bisa mencobanya ketika ada pesan atau panggilan masuk ke WA Anda. Jangan khawatir, Anda tetap bisa mengganti nada pesan tersebut jika sudah bosan. Caranya sama dengan langkah langkah yang telah disebutkan diatas. 
 
-
-5 Jenis WhatsApp Mod apk Terbaik yang Bisa Dicoba
+Melakukan Reset Ulang pada nada pesan WA
 ==================
+Setelah mengetahui cara ubah nada pesan WA sebelumnya, Anda juga harus tahu bagaimana mengembalikan pengaturan nada pesan pada WA dengan memakai fitur reset. Fitur ini akan membuat pengaturan kembali ke bagian awal, yakni mengembalikan nada pesan WA seperti sedia kala, sesuai bawaan WA. 
 
-1. GB WhatsApp Mod
+Jika Anda memang ingin melakukan reset pada pengaturan nada pesan WA, Anda bisa melakukan cara cara berikut ini:
 
-Aplikasi ini termasuk dalam modifikasi yang satu ini menjadi salah satu jenis WA Mod yang paling banyak disukai oleh penggunanya. Karena tentu punya banyak sekali kelebihan yang ada.  Selain itu tentu saja dikarenakan merupakan generasi awal atau perintis dari WA mod seperti halnya `WhatsApp Plus APK <https://www.autobild.co.id/2021/08/download-whatsapp-wa-plus-apk-versi.html>`_. Aplikasi GB WA ini diproduksi atau merupakan hasil yang dikembangkan oleh pihak ketiga yang bernama Heymods. Ada beberapa aplikasi yang diciptakan oleh Heymods.
+1. Buka aplikasi WA resmi ataupun `GB WA Apk <https://www.sebuahutas.com/2021/12/download-wa-gb-apk-terbaru-2022-resmi.html>`_ Anda. 
+2. Pada menu chat atau bagian awal aplikasi WA, pilih ikon dengan tiga titik di pojok kanan atas. 
+3. Nantinya ada beberapa menu yang akan ditampilkan, pilih opsi menu Notifikasi.
+4. Di menu tersebut Anda akan menemukan tiga titik kecil di pojok kanan atas sebagai simbol pengaturan, klik tiga titik tersebut. 
+5. Akan ada sub menu Reset Notification Settings, klik menu tersebut untuk melanjutkan.
 
-Aplikasi ini disukai karena dianggap paling tahan terhadap banned. Makanya fiturnya banyak diburu oleh para penggunanya karena mereka tidak mau kena blokir pihak whatsApp karena harus kehilangan datanya.  `GB WA terbaru <https://news.google.com/articles/CAIiEFx5qgEj2y79Uk6bVhn1IRsqGQgEKhAIACoHCAowtKumCzCctr4DMKOcjwc?uo=CAUiTGh0dHBzOi8vd3d3LmZlZG9yYS5vci5pZC8yMDIxLzExL2Rvd25sb2FkLWdiLXdoYXRzYXBwLXY5MDUtdGVyYmFydS0yMDIxLmh0bWzSAQA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ juga memiliki fitur andalan diantaranya:
+Review WhatsApp Mod Lengkap: https://gbmods.readthedocs.io/en/latest/
 
-- Bisa bebas pilih tema sendiri
-- Menyembunyikan tanda centang dua pada saat mengirimkan pesan
-- Mudah dalam mengatur semua jenis tampilan status aktivitas
-- Ukuran file pesan yang tidak terbatas dan beberapa fitur lainnya.
-
-2. YoWhatsApp
-
-Aplikasi ini menjadi aplikasi mod lainnya. Aplikasi  ini merupakan aplikasi Wa mod yang  memiliki fitur yang tidak kalah lengkapnya demikian juga dari segi layanannya. Tampilan dari aplikasi  ini  dibuat sangat simple sehingga mudah untuk digunakan termasuk bagi para pemula untuk aplikasi ini.
-
-YoWhatsapp adalah salah satu aplikasi WhatsApp modifikasi yang tidak kalah dengan fitur dan layanannya dibandingkan aplikasi GB wa. Kamu akan mendapatkan tampilan aplikasi yang menarik serta menantang. Meski baru pertama kali menggunakan WhatsApp mod,  tetapi dijamin tidak akan punya masalah saat mengoperasikannya. Pasalnya tampilan yang ada di aplikasi ini mudah untuk dimengerti. Bagi yang ingin untuk mengaplikasikan ini dapat  mendownload di link YoWhatsApp.
-
-3. WhatsApp AERO
-
-Aplikasi selanjutnya diberi nama WhatsApp Aero. Fitur aplikasi ini telah banyak mengalami modifikasi sehingga menjadi lebih fungsionalbdan lebih menarik. Awal dibentuknya `WhatsApp Aero <https://news.google.com/articles/CAIiEDaAxLgX2o6NjbNo8TkzAKIqGQgEKhAIACoHCAowqNamCzCQ4b4DMPbKkAc?uo=CAUiO2h0dHBzOi8vd3d3LnBlbGl0YS5vci5pZC9kb3dubG9hZC13YS1hZXJvLTIwMjEtYXBrLXRlcmJhcnUv0gEA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ pada tahun 2019 dan aplikasi ini telah diunduh hingga puluhan ribu penggunanya. Ada banyak sekali manfaat dan kelebihan dari fitur yang ada pada aplikasi ini. 
-
-Meskipun termasuk dalam aplikasi ilegal yang dilarang untuk digunakan oleh pengembang whatsApp resmi karena khawatir resiko yang ada. Namun aplikasi ini banyak di cari oleh penggunanya. Aplikasi ini dapat anda peroleh dengan mendownload lewat play store. Jika anda akan mengunduh gunakan link down load Whatsapp Aero.
-
-4. Fouad WhatsApp
-
-WhatsApp Mod Apk lainnya bernama Fouad. Aplikasi `Fouad WA APK <https://news.google.com/articles/CAIiEAxOuq2d9v8GZGyXyJZlPisqGQgEKhAIACoHCAowwsmmCzCq1L4DML-AwQM?uo=CAUiSGh0dHBzOi8vd3d3LmF1dG9iaWxkLmNvLmlkLzIwMjEvMTEvZG93bmxvYWQtZm91YWQtd2hhdHNhcHAtYXBrLXY5MDUuaHRtbNIBAA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ sendiri dibuat oleh pengembang yang sudah cukup diakui di dunia modifikasi. Hal ini dikarenakan sudah banyak aplikasi modifikasi terkenal dan banyak disukai pengguna salah satunya aplikasi fouad ini.  
-
-5. WhatsApp Transparan
-
-Sesuai dengan namanya aplikasi ini merupakan jenis aplikasi whatsapp mod yang memiliki tampilan transparan. Melalui aplikasi ini pengguna tidak perlu repot untuk mengatur background whatsapp.  Karena wall papernya akan mengikuti apa yang ada dalam hp. Namun tidak perlu khawatir walaupun namanya transparan tetapi semua tulisan yang ada dalam whatsApp tetap  dapat dibaca.
-
-Cara Mendownload  WhatsApp Mod Apk
-=====================
-
-Untuk dapat mengaktifkan WhatsApp Mod apk dengan semua fitur-fitur yang telah dijelaskan di atas. Maka dapat melakukannya dengan mendown load lewat situs `WhatsApp Meta <https://www.wameta.id/>`_. Adapun caranya sebagai berikut:
-
-- Unduh aplikasinya
-- Aktifkan opsi izinkan sumber tidak dikenal
-- Buka file WhatsApp Mod Apk yang telah diunduh
-- Instal aplikasi WhatsApp Mod
-
-Cara  Mengatasi WhatsApp Mod Apk jika terjadi Masalah Ban WA Plus
-====================
-
-Para pengguna aplikasi WhatsApp mod harus selalu berhati-hati. Jika suatu saat  anda mendapatkan warning ataupun pemblokiran akun WhatsApp plus. Untuk mengatasinya silahkan lakukan langkah –langkah berikut ini:
-- Hapus semua versi aplikasi WhatsApp di ponsel android anda
-- Hapus WhatsApp folder dan yang berkaitan dengan file dari aplikasi WA
-- Install WhatApp Plus APK terbaru versi unclone (original package name)
-- Verifikasi nomor ponsel kamu, ingat jangan pernah restore pesan data dari WA Plus APK versi lama ke bawah.  Menggunakan fitur restore chat sangat  beresiko
-- Jika muncul peringatan di palikasi WA Plus tekan tombol kembali untuk menghilangkan notif tersebut.
-
-Nah bagaimana para pengguna WhatsApp Mod Apk dengan informasi tentang aplikasi mod ini.  Jadi bagi anda yang saat ini masih bingung dan ragu untuk memilih aplikasi mod yang akan digunakan. Pilihlah aplikasi dan fitur sesuai dengan kebutuhan dan privasi diri anda. Lihat kelebihan dan kelemahan dari aplikasi serta fitur yang ada.  Mudah-mudahan pilihan anda tidak akan salah lagi. Untuk mempelajari cara ubah nada dering WhatsApp, kamu bisa mengacu pada artikel `tutorial ganti nada dering wa <https://news.google.com/articles/CAIiEHK0ukxMOYMsGvG31A-_h-UqGQgEKhAIACoHCAow38imCzDH074DMOufkAc?uo=CAUiSWh0dHBzOi8vd3d3LnNlYnVhaHV0YXMuY29tLzIwMjEvMDkvbmFkYS1kZXJpbmctd2Etc3VhcmEtZ29vZ2xlLXRhbnBhLmh0bWzSAQA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ ini.
-
-Tanya Jawab Seputar WA MOD Apk
-=========================
-
-Biar lebih paham, yuk simak beberapa pertanyaan dan ulasannya berikut.
-
-Apa perbedaan versi clone dan unclone?
-
-Secara umum, perbedaan antara versi clone dengan unclone nya adalah bagian package nya.  Aplikasi whatsApp yang clone, menggunakan package yang bukan .com. Sementara wa yang unclone menggunakan package yang com.whatsApp. Misal, kita ambil contoh wa clone yang RC Yo WhatsApp APK terbaru. Di mana, ia menghadirkan 2 buah versi. Yaitu yang clone dengan unclone. Yang clonenya mempunyai package rcyowa.whatsapp.
-
-Bagaimana cara update WA MOD versi terbaru?
-
-Jika WA MOD yang Anda gunakan memiliki versi terbaru, bagaimana cara update WA MOD nya?
-
-1. Biasanya, ketika WA MOD yang Anda gunakan mempunyai versi terbaru, pasti ada notifikasinya.
-2. Scroll ke bawah. Kemudian tekan 'update now'.
-3. Apabila tidak ada notifnya, maka Anda bisa memeriksanya dengan: a) Tekan titik 3 di bagian sudut kanan aplikasi. b) Pilih nama GB settings ataupun versi nama aplikasi yang Anda gunakan. b) Klik updates. c) Pilih check for update. d) Maka akan tampil notif versi yang terbaru jika memang ada.
-4. Klik open.
-5. Maka Anda akan dibawa ke situs WA untuk mendownload versi yang terbaru.
-6. kemudian, download aplikasinya.
-7. Apabila sudah didownload, maka Anda bisa menginstalnya dengan cara install WA MOD di atas.
-
-Referensi terkait: https://nadadering.readthedocs.io/en/latest/ 
-
-Bagaimana jika akun WA MOD terkena banned?
-Nah, karena semua akun WA MOD mengalami kemungkinan terkena banned, bagaimana cara mengatasinya? Tenang, cara mengatasi akun WA MOD Anda yang terkena banned sangat mudah kok. Lakukan langkah-langkah berikut ini:
-
-1. Hapus semua versi aplikasi WhatsApp di ponsel Android kamu
-2. Hapus WhatsApp folder dan yang berkaitan dengan file dari aplikasi WA
-3. Install WhatsApp Plus APK terbaru versi unclone (original package name)
-4. Verifikasi nomor ponsel kamu, ingat, jangan pernah restore pesan data dari WA Plus APK versi lama ke bawah. Menggunakan fitur restore chat sangat beresiko.
-5. Aplikasi WA mod siap digunakan.
-
-Demikian seputar WA MOD yang meski Anda perhatikan. Semoga bermanfaat.
+Dalam waktu singkat, pengaturan nada pesan akan kembali seperti bawaan WA. Meski sederhana, ternyata tidak semua orang mengetahui cara ubah nada pesan dan nada panggilan WA. Dengan bantuan tersebut, maka Anda bisa lebih mudah dalam mengatur dan mengelola nada pesan dan telepon yang masuk di aplikasi WA. Selamat mencoba cara cara diatas, semoga berhasil! 
