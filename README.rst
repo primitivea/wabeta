@@ -41,3 +41,5 @@ License
 The project is licensed under the BSD license. Mengulas beragam jenis Whatsmod yang dapat diunduh secara gratis dan powerful dengan beragam fitur menarik dari versi originalnya.
 
 - https://www.autobild.co.id/ - Direktori Aplikasi dan Tutorial Teknologi Indonesia
+- https://www.wameta.id/ - Tutorial WhatsApp dan Direktori WA MOD APK Terbaru
+- https://www.technolati.com/ - Portal Teknologi dan Aplikasi Digital dalam Bahasa Indonesia
