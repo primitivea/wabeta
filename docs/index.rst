@@ -3,47 +3,90 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Ganti Nada Pesan WA Jadi Unik dan Keren tanpa Aplikasi [Tutorial Android]
+Fitur Terbaru WhatsApp Beta dan WA Web di Tahun 2022
 ==================
 
-Whatsapp menyediakan banyak fitur menarik belakangan ini, salah satunya adalah cara ubah nada pesan panggilan WA. Dengan mengubah nada pesan tersebut, Anda bisa menggunakan music favorit untuk menjadi ringtone ketika ada pesan masuk atau telepon di WA.  Cara ini sebenarnya mirip dengan tutorial sound of text wa ygn bisa kamu baca di artikel berikut ini: https://www.technolati.com/2021/12/sound-of-text-wa-suara-anime-dan-wanita.html
+Fitur terbaru whatsapp akhir-akhir ini banyak diluncurkan. WhatsApp sendiri adalah aplikasi chatting yang banyak digunakan. Fiturnya yang simple dan mudah digunakan bahkan bagi pemula membuat aplikasi ini semakin banyak digandrungi, apalagi ditambah pembaharuan secara berkala.
 
-Mengganti nada pesan di WA juga tidak sulit, Anda bisa melakukannya tanpa harus menggunakan aplikasi pihak ketiga. Ponsel yang Anda gunakan untuk menggantinya pun bisa apa saja, tanpa ada batasan brand atau jenis. 
+Dengan pembaharuan tersebut diharapkan pengguna bisa semakin nyaman saat melakukan chatting. Agar tidak berlama-lama, yuk, langsung saja kita bahas fitur baru WA. Simak artikel ini sampai akhir ya.
 
-Menariknya, Anda bisa juga mengatur suara pesan masuk dari kontak atau grup tertentu. Sehingga Anda bisa tahu bahwa ada pesan masuk hanya dari ringtone khusus yang Anda gunakan. Jika tertarik menggunakannya, berikut adalah panduan dan cara mengubahnya. 
-
-Cara Ubah nada pesan Panggilan di WA
+Fitur Terbaru Aplikasi WhatsApp
 ==================
 
-Untuk mengubah nada dering, Anda bisa mengikuti langkah langkah berikut ini sebagai panduan, yakni:
+Bergabung dengan panggilan grub yang tidak terjawab
+-----------------------
 
-1. Buka aplikasi WA, lebih baik jika Anda menggunakan versi terbaru.
-2. Pada halaman muka aplikasi WA, pilih Setelan, posisinya ada di pojok kanan atas dengan simbol tiga titik. 
-3. Klik menu Pengaturan. 
-4. Selanjutnya pilih opsi menu Notifikasi, terdapat ikon bel dalam menu ini. 
-5. Anda bisa melihat tiga sub menu disana, yakni Nada Pesan, Nada Grub dan Nada Panggilan. 
-6. Pilih salah satu dari sub menu tersebut, jika ingin mengubah nada pesan, pilih menu Nada Pesan.
+Pada sebelumnya pengguna tidak bisa bergabung pada panggilan grub saat tidak terjawab. Jadi, jika Anda ingin tiba-tiba bergabung maka harus melakukan panggilan ulang. 
+Nah, pada saat ini WA melakukan pembaharuan yang memungkinkan pengguna untuk join panggilan grub meski telah terlewat. Caranya sangat mudah, Anda cukup pergi ke daftar panggilan terakhir, kemudian ketuk untuk join pada panggilan grub. Jika ingin merubah nada panggilan dengan suara Google, kamu bisa cek cara `sound of text wa <https://news.google.com/articles/CAIiEFjrrBfd4pJjncZWyyoz7t4qGQgEKhAIACoHCAowwsmmCzCq1L4DML-AwQM?uo=CAUiSWh0dHBzOi8vd3d3LmF1dG9iaWxkLmNvLmlkLzIwMjEvMTEvc291bmQtb2YtdGV4dC13YS1ub3RpZmlrYXNpLXN1YXJhLmh0bWzSAQA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ terbaru.
 
-Cara ubah nada pesan panggilan di WA selanjutnya adalah memilih nada pesan yang tersedia. WA sudah menyediakan beberapa opsi nada pesan yang bisa Anda pilih. Jika tertarik, pilih salah satu nada pesan tersebut. 
+Jumlah peserta panggilan grub semakin banyak
+-----------------------
 
-Lihat juga: `Buat Nada Pesan Suara Google <https://www.sebuahutas.com/2021/09/nada-dering-wa-suara-google-tanpa.html>`_
+Pada tahun ini WA juga melakukan peningkan dengan menambahkan jumlah peserta panggilan grub. Sebelumnya, panggilan tersebut hanya bisa dilakukan oleh 4 orang saja. Bagaimana, semakin menarik bukan? Apalagi saat ini banyak masyarakat yang menggunakan fitur panggilan grub untuk keperluan diskusi, sekolah, hingga bekerja.
 
-Namun jika kurang puas dengan nada pesan yang tersedia, pilih More Ringtones. Menu tersebut ada di bagian bawah, gulirkan untuk melihatnya. Dengan memilih More Ringtones, Anda bisa memilih lagu atau ringtone yang ingin Anda gunakan. Pilih nada pesan tersebut, jika sudah tekan OK untuk menyimpan perubahan. 
+Dukungan multi-perangkat
+-----------------------
 
-Nada pesan sudah terganti, Anda bisa mencobanya ketika ada pesan atau panggilan masuk ke WA Anda. Jangan khawatir, Anda tetap bisa mengganti nada pesan tersebut jika sudah bosan. Caranya sama dengan langkah langkah yang telah disebutkan diatas. 
+Fitur ini memungkinkan Anda bisa mengakses satu akun WhatsApp melalui banyak perangkat dengan adanya WA Beta. Hal ini tentu memudahkan Anda saat membutuhkan banyak perangkat dalam bekerja. Contoh, Anda bisa login WA web melalui laptop/PC. Baca selengkapnya di artikel: https://www.sebuahutas.com/2022/02/download-wa-web-beta-terbaru-2022.html
 
-Melakukan Reset Ulang pada nada pesan WA
-==================
-Setelah mengetahui cara ubah nada pesan WA sebelumnya, Anda juga harus tahu bagaimana mengembalikan pengaturan nada pesan pada WA dengan memakai fitur reset. Fitur ini akan membuat pengaturan kembali ke bagian awal, yakni mengembalikan nada pesan WA seperti sedia kala, sesuai bawaan WA. 
+Foto hanya sekali lihat
+-----------------------
 
-Jika Anda memang ingin melakukan reset pada pengaturan nada pesan WA, Anda bisa melakukan cara cara berikut ini:
+Fitur terbaru WhatsApp selanjutnya adalah bisa kirim foto dengan sekali lihat. fitur ini juga bisa disebut disappearing mode, fitur tersebut diciptakan untuk meningkatkan keamanan pengguna.
 
-1. Buka aplikasi WA resmi ataupun `GB WA Apk <https://www.sebuahutas.com/2021/12/download-wa-gb-apk-terbaru-2022-resmi.html>`_ Anda. 
-2. Pada menu chat atau bagian awal aplikasi WA, pilih ikon dengan tiga titik di pojok kanan atas. 
-3. Nantinya ada beberapa menu yang akan ditampilkan, pilih opsi menu Notifikasi.
-4. Di menu tersebut Anda akan menemukan tiga titik kecil di pojok kanan atas sebagai simbol pengaturan, klik tiga titik tersebut. 
-5. Akan ada sub menu Reset Notification Settings, klik menu tersebut untuk melanjutkan.
+Dengan disappearing mode Anda bisa membatasi waktu tampilan foto atau video yang dikirimkan di kontak WA. Ketika Anda sudah mengaktifkan fitur tersebut, video atau foto yang dikirim otomatis hanya bisa dilihat satu kali oleh orang lain. Selain itu, jangan lupa untuk menekan tombol lingkaran dengan angka “1” sebelum kirim video atau foto.
 
-Review WhatsApp Mod Lengkap: https://gbmods.readthedocs.io/en/latest/
+Sudah hadir mode gelap
+-----------------------
 
-Dalam waktu singkat, pengaturan nada pesan akan kembali seperti bawaan WA. Meski sederhana, ternyata tidak semua orang mengetahui cara ubah nada pesan dan nada panggilan WA. Dengan bantuan tersebut, maka Anda bisa lebih mudah dalam mengatur dan mengelola nada pesan dan telepon yang masuk di aplikasi WA. Selamat mencoba cara cara diatas, semoga berhasil! 
+Akhir-akhir ini banyak pengguna ponsel yang menyukai dark mode atau mode gelap. Fitur tersebut terlihat lebih keren dan tidak terlalu menyilaukan pandangan. Menariknya, kini WhatsApp sudah tersedia fitur tersebut. 
+
+Cara menggunakannya juga sangat mudah, yaitu buka menu lalu settings>chat>theme. Dari situlah pilih mode gelap dan jika ingin kembali seperti semula bisa ke kembali pada menu tersebut.
+
+Peningkatan pada pencarian chat
+-----------------------
+
+Fitur pencarian obrolan pada WA mengalami peningkatan, yang mana memungkinkan Anda untuk mencari chat lebih spesifik. Bukan hanya pesan teks yang ditampilkan tapi juga foto, audio, hingga GIF.
+
+Fitur ini bisa digunakan pada kolom pencarian pada menu utama chat atau terletak pada bagian atas aplikasi.
+
+Pengelolaan penyimpanan lebih baik
+-----------------------
+
+Sekarang Anda bisa mengelola dan menyimpan foto, video, audio, dan lain sebagainya di WA. Pada bagian data dan penyimpanan, Anda bisa memilih data yang mana saja akan disimpan atau dihapus.
+
+Tak hanya itu, Anda juga bisa menghapus obrolan atau data yang berasal dari grub maupun pribadi. Fitur ini juga menampilkan kontak siapa saja yang menyimpan data paling banyak.
+
+Bisa melakukan telepon dan VC melalui desktop
+-----------------------
+
+Bukan hanya meningkatkan jumlah anggota panggilan tapi kini WhatsApp meningkatkan fitur panggilan, yang mana sudah bisa dilakukan melalui desktop. Untuk menikmati fitur menarik ini, Anda cukup mengunduh aplikasi WA di laptop/pc dan setelah login, Anda bisa melakukan panggilan seperti biasa.
+
+Pesan yang diarsip tidak akan muncul notifikasi
+-----------------------
+
+Jika sebelumnya Anda sempat kesal karena pesan yang diarsipkan malah muncul lagi atau masih terdapat notifikasi. Saat ini, WhatsApp sudah memperbaharui kebijakan tersebut. Jadi, pesan yang sudah diarsipkan tidak akan muncul pada halaman utama, bahkan tidak akan ada notifikasi yang muncul.
+
+Meningkatkan keamanan biometrik
+-----------------------
+
+Perusahaan WA telah meningkatkan sistem keamanan biometrik saat pengguna akan mengakses WA melalui web atau desktop. Bukan hanya dimintai kode QR, pengguna saat ingin login pada pc juga diperintahkan memindai sidik jari atau wajah. 
+
+Fitur tersebut hadir memastikan pengguna tetap aman meski login diberbagai perangkat.
+
+Alasan Aplikasi WhatsApp Banyak Disukai Pengguna
+==========================
+
+Setelah mengetahui fitur terbaru WhatsApp, berikut kami berikan sedikit informasi mengapa aplikasi tersebut banyak digemari oleh pengguna.
+
+#! Sinkronisasi otomatis dengan kontak
+-----------------------
+
+Aplikasi chatting WA memiliki fitur sinkronisasi otomatis dengan kontak. Dengan fitur tersebut, Anda akan langsung terhubung dengan WA seseorang jika menyimpan kontaknya. Namun, pastikan kontak yang Anda simpan juga menggunakan WhatsApp.
+
+#2 Tampilan sangat sederhana
+-----------------------
+
+Semua orang pasti setuju bahwa interface pada aplikasi tersebut sangat sederhana namun tetap menarik. Dengan tampilan sederhana tersebut, fitur WA juga sangat lengkap mulai dari berbagai status, panggilan video grub, hingga fitur format teks.
+
+Nah, itu dia fitur terbaru WhatsApp di tahun 2022 yang bisa Anda nikmati saat ini. Semoga bermanfaat!
