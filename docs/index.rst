@@ -79,7 +79,7 @@ Alasan Aplikasi WhatsApp Banyak Disukai Pengguna
 
 Setelah mengetahui fitur terbaru WhatsApp, berikut kami berikan sedikit informasi mengapa aplikasi tersebut banyak digemari oleh pengguna.
 
-#! Sinkronisasi otomatis dengan kontak
+#1 Sinkronisasi otomatis dengan kontak
 -----------------------
 
 Aplikasi chatting WA memiliki fitur sinkronisasi otomatis dengan kontak. Dengan fitur tersebut, Anda akan langsung terhubung dengan WA seseorang jika menyimpan kontaknya. Namun, pastikan kontak yang Anda simpan juga menggunakan WhatsApp.
