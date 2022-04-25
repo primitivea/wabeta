@@ -90,3 +90,12 @@ Aplikasi chatting WA memiliki fitur sinkronisasi otomatis dengan kontak. Dengan 
 Semua orang pasti setuju bahwa interface pada aplikasi tersebut sangat sederhana namun tetap menarik. Dengan tampilan sederhana tersebut, fitur WA juga sangat lengkap mulai dari berbagai status, panggilan video grub, hingga fitur format teks.
 
 Nah, itu dia fitur terbaru WhatsApp di tahun 2022 yang bisa Anda nikmati saat ini. Semoga bermanfaat!
+
+********
+Contents
+********
+
+.. toctree::
+   :maxdepth: 2
+
+   whatsapp-gb/index
