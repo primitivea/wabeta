@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Fitur Terbaru WhatsApp Beta dan WA Web di Tahun 2022
+Fitur Terbaru New WhatsApp Web dan WA Web di Tahun 2022
 ==================
 
 Fitur terbaru whatsapp akhir-akhir ini banyak diluncurkan. WhatsApp sendiri adalah aplikasi chatting yang banyak digunakan. Fiturnya yang simple dan mudah digunakan bahkan bagi pemula membuat aplikasi ini semakin banyak digandrungi, apalagi ditambah pembaharuan secara berkala.
@@ -73,6 +73,20 @@ Meningkatkan keamanan biometrik
 Perusahaan WA telah meningkatkan sistem keamanan biometrik saat pengguna akan mengakses WA melalui web atau desktop. Bukan hanya dimintai kode QR, pengguna saat ingin login pada pc juga diperintahkan memindai sidik jari atau wajah. 
 
 Fitur tersebut hadir memastikan pengguna tetap aman meski login diberbagai perangkat.
+
+Informasi GB WA Web Terbaru
+----------------------
+
+Selain New WhatsApp Web bisa diakses dari aplikasi WA resmi, ternyata GB WA Web juga tersedia dalam versi desktop dan bisa diakses lewat browser laptop. Untuk menggunakannya pun tidak sulit, kamu bisa mengikuti langkah dibawah ini:
+
+- Buka aplikasi GB WA
+- Ketuk titik tiga di pojok kanan atas
+- Pilih Link Devices dibawah menu FM Mods
+- Pilih opsi Scan QR code dan pindai kode dari web whatsapp
+- Selesai
+
+Untuk mendownload GB WhatsApp dan mulai menggunakan GB WA Web, kamu bisa mengunduhnya lewat link berikut ini: https://www.sebuahutas.com/2022/02/gb-wa-pro-apk-gb-whatsapp-official.html
+
 
 Alasan Aplikasi WhatsApp Banyak Disukai Pengguna
 ==========================
