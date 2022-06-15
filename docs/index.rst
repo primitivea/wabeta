@@ -113,3 +113,4 @@ Contents
    :maxdepth: 2
 
    whatsapp-gb/index
+   wa-mod/index
