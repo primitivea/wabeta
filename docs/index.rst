@@ -17,7 +17,7 @@ Bergabung dengan panggilan grub yang tidak terjawab
 -----------------------
 
 Pada sebelumnya pengguna tidak bisa bergabung pada panggilan grub saat tidak terjawab. Jadi, jika Anda ingin tiba-tiba bergabung maka harus melakukan panggilan ulang. 
-Nah, pada saat ini WA melakukan pembaharuan yang memungkinkan pengguna untuk join panggilan grub meski telah terlewat. Caranya sangat mudah, Anda cukup pergi ke daftar panggilan terakhir, kemudian ketuk untuk join pada panggilan grub. Jika ingin merubah nada panggilan dengan suara Google, kamu bisa cek cara `sound of text wa <https://news.google.com/articles/CAIiEFjrrBfd4pJjncZWyyoz7t4qGQgEKhAIACoHCAowwsmmCzCq1L4DML-AwQM?uo=CAUiSWh0dHBzOi8vd3d3LmF1dG9iaWxkLmNvLmlkLzIwMjEvMTEvc291bmQtb2YtdGV4dC13YS1ub3RpZmlrYXNpLXN1YXJhLmh0bWzSAQA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ terbaru.
+Nah, pada saat ini WA melakukan pembaharuan yang memungkinkan pengguna untuk join panggilan grub meski telah terlewat. Caranya sangat mudah, Anda cukup pergi ke daftar panggilan terakhir, kemudian ketuk untuk join pada panggilan grub. Jika ingin merubah nada panggilan dengan suara Google, kamu bisa cek cara `sound of text wa <https://www.voiceoftext.com/p/sound-of-text-wa.html>`_ terbaru.
 
 Jumlah peserta panggilan grub semakin banyak
 -----------------------
@@ -27,7 +27,7 @@ Pada tahun ini WA juga melakukan peningkan dengan menambahkan jumlah peserta pan
 Dukungan multi-perangkat
 -----------------------
 
-Fitur ini memungkinkan Anda bisa mengakses satu akun WhatsApp melalui banyak perangkat dengan adanya WA Beta. Hal ini tentu memudahkan Anda saat membutuhkan banyak perangkat dalam bekerja. Contoh, Anda bisa login WA web melalui laptop/PC. Baca selengkapnya di artikel: https://www.sebuahutas.com/2022/02/download-wa-web-beta-terbaru-2022.html
+Fitur ini memungkinkan Anda bisa mengakses satu akun WhatsApp melalui banyak perangkat dengan adanya WA Beta. Hal ini tentu memudahkan Anda saat membutuhkan banyak perangkat dalam bekerja. Contoh, Anda bisa login WA web melalui laptop/PC. Baca selengkapnya di artikel: https://www.sebuahutas.com/
 
 Foto hanya sekali lihat
 -----------------------
