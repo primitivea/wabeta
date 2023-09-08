@@ -85,7 +85,7 @@ Selain New WhatsApp Web bisa diakses dari aplikasi WA resmi, ternyata GB WA Web 
 - Pilih opsi Scan QR code dan pindai kode dari web whatsapp
 - Selesai
 
-Untuk mendownload GB WhatsApp dan mulai menggunakan GB WA Web, kamu bisa mengunduhnya lewat link berikut ini: https://www.sebuahutas.com/2022/02/gb-wa-pro-apk-gb-whatsapp-official.html
+Untuk mendownload GB WhatsApp dan mulai menggunakan GB WA Web, kamu bisa mengunduhnya lewat link berikut ini: https://www.emzeth.com
 
 
 Alasan Aplikasi WhatsApp Banyak Disukai Pengguna
